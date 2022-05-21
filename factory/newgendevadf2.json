@@ -1,0 +1,9 @@
+{
+	"name": "newgendevadf2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1c72eb61-50e0-4651-95bb-09603fa31c5a",
+		"tenantId": "e2bcd010-b636-4814-a52c-80ef2402312b"
+	}
+}
